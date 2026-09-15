@@ -4,7 +4,7 @@
 #UDP Ports: 4380,27000-27100   - Some or all may not be needed
 #https://ipinfo.io/AS32590
 
-#Info found @ https://help.steampowered.com/en/faqs/view/2EA8-4D75-DA21-31EB
+#Info found @ https://help.steampowered.com/
 #Login to steam and download content:
 #HTTP (TCP 80) og HTTPS (443) (usually covered by other policies)
 #UDP 27015-27050
